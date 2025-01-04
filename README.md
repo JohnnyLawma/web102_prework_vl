@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Sea Monster Crowdfunding
 
-Submitted by: **Your Name Here**
+Submitted by: **Van Lawn*
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+** Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
@@ -32,13 +32,6 @@ Here's a walkthrough of implemented features:
 </div>
 
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -46,7 +39,7 @@ Challenges I faced included manipulating object properties, like filtering and u
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Van Lawn
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
